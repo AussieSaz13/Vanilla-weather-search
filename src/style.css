@@ -92,10 +92,6 @@ main {
   opacity: 0.5;
 }
 
-.weather-forecast-temperature-min {
-  opacity: 0.5;
-}
-
 footer {
   border-top: 2px solid #f7b7d9;
   padding-top: 10px;
